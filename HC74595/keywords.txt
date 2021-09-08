@@ -1,0 +1,16 @@
+HC74595			KEYWORD1
+Update			KEYWORD2
+NoUpdate		KEYWORD2
+SetAll			KEYWORD2
+NumberToBinary		KEYWORD2
+CharacterToBinary	KEYWORD2
+Location		KEYWORD2
+Sevensegment		KEYWORD2
+SegmentNumber		KEYWORD2
+LEDdesing1		KEYWORD2
+LEDdesing2		KEYWORD2
+LEDdesing3		KEYWORD2
+LEDdesing4		KEYWORD2
+LEDdesing5		KEYWORD2
+LEDdesing6		KEYWORD2
+Shift			KEYWORD2
